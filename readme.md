@@ -2,6 +2,7 @@
 
 Versión actualizada de los códigos únicos territoriales (CUT) de Chile, conjunto de datos extremadamente útil para homogeneizar los nombres de las comunas y regiones del país en base a sus códigos de identificación.
 
+[Descarga los datos en formato `.csv` en este enlace](https://github.com/bastianolea/cut_comunas/blob/master/datos/cut_comuna.csv), o en formato `.rds` [aquí](https://github.com/bastianolea/cut_comunas/blob/master/datos/cut_comuna.rds).
 
 ### Fuentes:
 - https://www.subdere.gov.cl/documentacion/códigos-únicos-territoriales-actualizados-al-06-de-septiembre-2018
